@@ -43,7 +43,7 @@
 
 ###
 
-<img href="https://raw.githubusercontent.com/eduardofayan/blob/output/snake.svg" alt="Snake animation" />
+![Snake animation](https://github.com/eduardofayan)
 
 ###
 
