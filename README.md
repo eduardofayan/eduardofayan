@@ -43,7 +43,7 @@
 
 ###
 
-![Snake animation]([https://github.com/eduardofayan/eduardofayan/blob/output/snake.svg)
+![Snake animation]([https://github.com/eduardofayan/eduardofayan/blob/output/github-contribution-grid-snake.svg)
 
 ###
 
