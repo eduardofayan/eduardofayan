@@ -43,8 +43,6 @@
 
 ###
 
-<br clear="both">
-
 <img href="https://raw.githubusercontent.com/eduardofayan/eduardofayan/blob/output/snake.svg" alt="Snake animation" />
 
 ###
