@@ -1,4 +1,4 @@
-<h2 align="center">Eduardo Fayan 💻<br>< Developer Front-End /></h2>
+<h2 align="center">Eduardo Fayan 💻<br>< Developer Front-end /></h2>
 
 ###
 
