@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">< 🧑‍💻24 years /><br>< 📌Jaguariúna - Brazil /><br>< 🚀+ de 5 Anos de Experiência /></p>
+<p align="left">< 🧑‍💻24 years /><br>< 📌Jaguariúna - Brazil /><br>< 🚀+ de 5 Anos de Experiência /><br>< Se não está aqui, está no Gitlab! /></p>
 
 ###
 
