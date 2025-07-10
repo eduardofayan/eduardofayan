@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">< 🧑‍💻21 years /><br>< 📌Paraná - Brazil /><br>< 🚀Licenciado em Computação na UFPR /></p>
+<p align="left">< 🧑‍💻24 years /><br>< 📌Jaguariúna - Brazil /><br>< 🚀+ de 5 Anos de Experiência /></p>
 
 ###
 
