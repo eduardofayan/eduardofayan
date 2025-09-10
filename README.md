@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">< 🧑‍💻24 years /><br>< 📌Jaguariúna - Brazil /><br>< 🚀+ de 5 Anos de Experiência /><br>< Se não está aqui, está no Gitlab! /></p>
+<p align="left">< 🧑‍💻24 years /><br>< 📌Jaguariúna - Brasil /><br>< 🚀+ de 5 Anos de Experiência /><br>< 💻 Se não está aqui, está no Gitlab! /></p>
 
 ###
 
@@ -16,18 +16,20 @@
 <br clear="both">
 
 <div align="center">
-  <a href="https://www.youtube.com/channel/UCMm4JpEzVZbwh7ZX_gdXUFw" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="60" height="26" alt="youtube logo"  />
-  </a>
-  <a href="https://www.instagram.com/eduardofayan/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="60" height="26" alt="instagram logo"  />
-  </a>
-  <a href="https://discord.com/channels/@me" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="60" height="26" alt="discord logo"  />
-  </a>
-  <a href="https://mail.google.com/mail/u/0/#inbox" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="60" height="26" alt="gmail logo"  />
-  </a>
+  """
+    <a href="https://www.youtube.com/channel/UCMm4JpEzVZbwh7ZX_gdXUFw" target="_blank">
+      <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="60" height="26" alt="youtube logo"  />
+    </a>
+    <a href="https://www.instagram.com/eduardofayan/" target="_blank">
+      <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="60" height="26" alt="instagram logo"  />
+    </a>
+    <a href="https://discord.com/channels/@me" target="_blank">
+      <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="60" height="26" alt="discord logo"  />
+    </a>
+    <a href="https://mail.google.com/mail/u/0/#inbox" target="_blank">
+      <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="60" height="26" alt="gmail logo"  />
+    </a> 
+  """
   <a href="https://www.linkedin.com/in/eduardo-fayan-4a92931b4/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="60" height="26" alt="linkedin logo"  />
   </a>
@@ -44,37 +46,18 @@
   </a> 
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-  </a>  
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> 
-  </a>  
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
-  </a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> 
-  </a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
-  </a>
+  </a>   
   <a href="https://www.php.net" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> 
-  </a>
-  <a href="https://laravel.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> 
   </a>
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
   </a>
-
-###
-
-![Snake animation](https://github.com/eduardofayan/eduardofayan/blob/output/github-contribution-grid-snake.svg)
-
-###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/eduardofayan/count.svg?"  />
-</div>
+  <a href="https://www.python.org/psf-landing/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.python.org/static/community_logos/python-logo.png" alt="mysql" width="40" height="40"/> 
+  </a>
+  <a href="https://learn.microsoft.com/pt-br/sql/?view=sql-server-ver17" target="_blank" rel="noreferrer"> 
+    <img src="https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/1037761-cardgrid-sql-server2022?resMode=sharp2&op_usm=1.5,0.65,15,0&qlt=100" alt="mysql" width="40" height="40"/> 
+  </a>
 
 ###
