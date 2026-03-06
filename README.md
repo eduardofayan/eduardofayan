@@ -1,4 +1,4 @@
-<h2 align="center">Eduardo Vinicius Fayan <br>< Data Science, RPA and AI /></h2>
+<h2 align="center">Eduardo Vinícius Fayan <br>< Data Science, RPA and AI /></h2>
 
 ###
 
