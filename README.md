@@ -5,14 +5,6 @@
 <p align="left">< 🧑‍💻25 years /><br>< 📌Jaguariúna, São Paulo - Brazil /><br>< 💻+ 5 years the experience /><br>
 < 🤖Data and Automations />
 
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/eduardofayan/eduardofayan/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/eduardofayan/eduardofayan/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/eduardofayan/eduardofayan/output/github-contribution-grid-snake.svg">
-  </picture>
-</div>
-
 <br clear="both">
 
 <div align="center">
