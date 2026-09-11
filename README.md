@@ -1,9 +1,9 @@
-<h2 align="center">Eduardo Vinícius Fayan <br>< Data Science, RPA and AI /></h2>
+<h2 align="center">Eduardo Vinícius Fayan <br>< Python Developer | AI | SQL /></h2>
 
 ###
 
 <p align="left">< 🧑‍💻25 years /><br>< 📌Jaguariúna, São Paulo - Brazil /><br>< 💻+ 5 years the experience /><br>
-< 🤖Data and Automations />
+< Python Developer | AI | SQL />
 
 <br clear="both">
 
